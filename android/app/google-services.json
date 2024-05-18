@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "948825087823",
+    "firebase_url": "https://fruitdisease-83fe9-default-rtdb.firebaseio.com",
+    "project_id": "fruitdisease-83fe9",
+    "storage_bucket": "fruitdisease-83fe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948825087823:android:8747b08d1280a15c066f3a",
+        "android_client_info": {
+          "package_name": "com.symilars.fruitdisease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZzkDaMdG77cnKjZH8S1bdllcOJMCPD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948825087823:android:81da5e39db81eab9066f3a",
+        "android_client_info": {
+          "package_name": "com.symilars.treediseaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZzkDaMdG77cnKjZH8S1bdllcOJMCPD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
